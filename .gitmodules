@@ -1,0 +1,8 @@
+[submodule "Frontend"]
+	path = frontend
+	url = git@github.com:AKonstantin1337/tempGit.git
+	branch = frontend
+[submodule "Backend"]
+	path = backend
+	url = git@github.com:AKonstantin1337/tempGit.git
+	branch = backend
